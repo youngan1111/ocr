@@ -14,5 +14,3 @@ const worker = createWorker();
   console.log(text);
   await worker.terminate();
 })();
-
-//test
